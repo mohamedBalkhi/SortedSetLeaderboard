@@ -12,7 +12,7 @@ public class Program
             new Player("3", "Charlie", new Score(150, 1)),
             new Player("4", "David", new Score(200, 3))
         };
-        // Genera
+        
         var leaderboard = new Leaderboard(players);
 
         string? lastMessage = null;
