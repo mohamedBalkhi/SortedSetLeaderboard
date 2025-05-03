@@ -40,3 +40,7 @@ Run the application and follow the on-screen menu:
 ## Requirements
 
 - .NET 6.0 or later
+
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
